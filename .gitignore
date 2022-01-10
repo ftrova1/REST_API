@@ -1,7 +1,7 @@
 #IntelliJ config
 .idea
 *.iml
-pom.properties
+target/
 
 # Compiled class file
 *.class
